@@ -13,7 +13,7 @@ Accept the terms and click install.
 There is a high chance that even if you select to install Jetson Tools and CUDA in Step 2 they will not be installed, the link below may help!
 https://docs.nvidia.com/sdk-manager/install-with-sdkm-jetson/index.html
 
-# If CUDA is still not successfully installed, 
+# If CUDA is still not successfully installed
 I recommend formatting again and installing the SDK on Jetson without any additional components!
 In step 2, uncheck the Jetson Runtime Components, Jetson SDK Components boxes, leaving only the Jetson Linux box!
 It is possible to install manually after Jetson initialization only with Ubuntu with the command:
